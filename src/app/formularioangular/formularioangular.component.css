@@ -1,0 +1,25 @@
+.formulario{
+  height: 100%;
+  background-color: rgb(248, 244, 244);
+  text-align: center;
+  width: 100%;
+
+}
+
+h1{
+  color: rgb(87, 130, 158);
+  font-size: 40px;
+  text-decoration-style: solid;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px rgb(33, 33, 39);
+}
+
+.inputs{
+  width: 20%;
+}
+
+.div-datos{
+  text-align: center;
+  display: flex;
+  align-content: center;
+}
